@@ -1,6 +1,5 @@
 import serial
-import time
-import requests
+# import requests
 import json
 
 import tweepy
